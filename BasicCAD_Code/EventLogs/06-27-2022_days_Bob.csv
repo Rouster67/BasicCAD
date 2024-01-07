@@ -1,0 +1,23 @@
+Timestamp , Call Type , Comment
+06/27/22 23:58:59s, DV CDP
+06/27/22 23:58:59s, ,Event Opend: DV
+06/27/22 23:59:14s, ,Officers arrived
+06/27/22 23:59:49s, ,Officers advised everything is 10-4
+06/28/22 00:03:07s, ,DV updated to DV CDP
+06/28/22 00:03:28s, ,Officer adivsed one female in custody
+06/28/22 00:03:41s, ,Officers enroute county jail
+06/28/22 00:03:49s, ,All Officers clear Adult Arrest
+
+06/27/22 23:59:27s, Noise Complaint
+06/27/22 23:59:27s, ,Event Opend: NOise Complaint
+06/28/22 00:00:18s, ,Officer arrived
+06/28/22 00:01:41s, ,NOise Complaint updated to Noise Complaint
+06/28/22 00:02:00s, ,All Officers clear HBO
+06/28/22 00:02:22s, ,Event opened by Bob. Reason: RP called back to file complaint
+06/28/22 00:02:46s, ,Refered to supervisor
+06/28/22 00:04:01s, ,All Officers clear Complaint Taken
+
+06/28/22 00:04:12s,Dog Loose
+06/28/22 00:04:12s, ,Event Opend: Dog Loose
+06/28/22 00:04:25s, ,Officer in the area
+ , , This Event was left open

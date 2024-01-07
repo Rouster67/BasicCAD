@@ -1,0 +1,12 @@
+Timestamp , Call Type , Comment , Location , RP , Phone , Dispatcher
+06/28/22 22:49:43s , test ,  , test ,  , 
+06/28/22 22:49:43s , , Event Opend: test , , ,  , Bob
+06/28/22 22:49:47s , , test , , ,  , Bob
+06/28/22 22:50:00s , , All Officers clear test , , ,  , Bob
+
+
+Events left open:
+06/28/22 22:49:49s , test , test ,  , 
+06/28/22 22:49:49s, ,Event Opend: test , , ,  , Bob
+06/28/22 22:49:54s, ,test , , ,  , Bob
+ , , This Event was left open

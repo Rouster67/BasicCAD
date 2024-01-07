@@ -1,0 +1,8 @@
+Events: , 1 , Closed: 0 , Open: 1
+Timestamp , Call Type , Comment , Location , RP , Phone , Dispatcher
+
+Events left open:
+06/29/22 14:34:10s , test ,  , test , test , teset
+06/29/22 14:34:10s, ,Event Opend: test , , ,  , Bob
+06/29/22 14:34:11s, ,test , , ,  , Bob
+ , , This Event was left open
